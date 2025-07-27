@@ -20,3 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Projeto de cartão de visitas online para mostrar minhas redes e portifólio.
+
+## Aprendizado
+
+Este projeto me ajudou a evoluir no uso de CSS para estilização e a ganhar mais confiança no controle de versões com Git.
