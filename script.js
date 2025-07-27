@@ -11,8 +11,7 @@ function toggleMode() {
 
   const img = document.querySelector("#profile img");
   if(html.classList.contains("light")){
-    img.src = "./assets/sun.svg";
-    img.alt = "Ícone de sol";
+    img.src = "./assets/foto-claro.png";
   } else {
     img.src = "assets/foto.jpg";
   }
